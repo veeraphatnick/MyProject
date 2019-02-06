@@ -8,3 +8,4 @@ for line in file1:
     s = line + s
 file1.close()
 print(s[:-1])
+print('test')
